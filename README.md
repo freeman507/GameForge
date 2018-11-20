@@ -19,7 +19,6 @@ Framework para desenvolvimento de jogos 2D para ser usado como um recurso didát
 <tr class="altColor">
 <td class="colFirst"><code>static int</code></td>
 <td class="colLast"><code><span class="memberNameLink"><a href="../GameBuilder/GameComponent.html#ASPA">ASPA</a></span></code>
-<div class="block">Constantes do teclado:</div>
 </td>
 </tr>
 <tr class="rowColor">
